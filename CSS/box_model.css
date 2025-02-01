@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.boxmodel{
+    margin: 10px auto;
+    padding: 5px;
+    background-color: transparent;
+    background-image: url(https://wallpapercave.com/wp/wp3820409.jpg);
+    
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
